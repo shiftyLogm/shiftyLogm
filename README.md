@@ -12,10 +12,11 @@ My name is <strong>Lucas Gabriel Queiroz</strong> (IGN: shiftyLogm) and i live i
 ###  Feel free to check out my profile! 😎👍👍
 <hr>
 
-<div display=flex>
-  <img src="https://github-readme-stats-phi-sable-93.vercel.app/api?username=shiftyLogm&theme=gotham&show_icons=true&hide=contribs" style="height: 164px">
-  <img src="https://github-readme-stats-phi-sable-93.vercel.app/api/top-langs/?username=shiftyLogm&theme=gotham&layout=compact">
+<div align=center>
+  <img src="https://github-readme-stats-phi-sable-93.vercel.app/api?username=shiftyLogm&theme=dark&show_icons=true&hide=contribs" style="height: 164px">
+  <img src="https://github-readme-stats-phi-sable-93.vercel.app/api/top-langs/?username=shiftyLogm&theme=dark&layout=compact" style="height: 164px">
 </div>
+<br>
 <div align=center>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
