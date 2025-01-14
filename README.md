@@ -2,7 +2,7 @@
 <a href="https://www.instagram.com/lucas_gqz/" target="_blank">
   <img class="a" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href="" target="_blank">
+<a href="https://www.linkedin.com/in/lucas-gabriel-queiroz-35727532b/" target="_blank">
   <img class="a" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <br><br>
