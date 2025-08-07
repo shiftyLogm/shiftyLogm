@@ -14,7 +14,7 @@ My name is <strong>Lucas Gabriel Queiroz</strong> (IGN: shiftyLogm) and i live i
 
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=shiftyLogm&theme=dark&show_icons=true&hide=contribs" style="height: 164px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shiftyLogm&hide=html,shaderlab,mathematica,hlsl,cmake,c,c++&theme=dark&layout=compact" style="height: 164px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shiftyLogm&hide=html,shaderlab,mathematica,hlsl,cmake,c&theme=dark&layout=compact" style="height: 164px">
 </div>
 <br>
 <div align=center>
