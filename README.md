@@ -13,8 +13,8 @@ My name is <strong>Lucas Gabriel Queiroz</strong> (IGN: shiftyLogm) and i live i
 <hr>
 
 <div align=center>
-  <img src="https://github-readme-stats-phi-sable-93.vercel.app/api?username=shiftyLogm&theme=dark&show_icons=true&hide=contribs" style="height: 164px">
-  <img src="https://github-readme-stats-phi-sable-93.vercel.app/api/top-langs/?username=shiftyLogm&theme=dark&layout=compact" style="height: 164px">
+  <img src="https://github-readme-stats.vercel.app/api?username=shiftyLogm&theme=dark&show_icons=true&hide=contribs" style="height: 164px">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiftyLogm&theme=dark&layout=compact" style="height: 164px">
 </div>
 <br>
 <div align=center>
