@@ -7,7 +7,7 @@
 </a>
 <br><br>
 My name is <strong>Lucas Gabriel Queiroz</strong> (IGN: shiftyLogm) and i live in the state of São Paulo, Brazil. I started my interest in tech area in 2022 with Python, solving algorithms on CodeWars, an excellent site for coding challenges.
-<br><br> Currently working in Trindtech. I have expertise in Web Development, Unity Engine, Mobile with React Native and more.
+<br><br> Currently working in <a href="https://www.linkedin.com/company/trindtech" target="_blank">@Trindtech</a>. I have expertise in Web Development, Unity Engine, Mobile with React Native and more.
 
 ###  Feel free to check out my profile! 😎👍👍
 <hr>
