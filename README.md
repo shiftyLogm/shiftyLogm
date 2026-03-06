@@ -8,16 +8,9 @@
 <br><br>
 My name is <strong>Lucas Gabriel Queiroz</strong> (IGN: shiftyLogm) and i live in the state of São Paulo, Brazil. I started my interest in tech area in 2022 with Python, solving algorithms on CodeWars, an excellent site for coding challenges.
 <br><br> Currently working in <a href="https://www.linkedin.com/company/trindtech" target="_blank">@Trindtech</a>. I have expertise in Web Development, Unity Engine, Mobile with React Native and more.
-
-###  Feel free to check out my profile! 😎👍👍
 <hr>
 
 <div align=center>
   <img src="https://github-readme-stats-phi-sable-93.vercel.app/api?username=shiftyLogm&theme=dark&show_icons=true&hide=contribs&cache_seconds=21603" style="height: 164px">
   <img src="https://github-readme-stats-phi-sable-93.vercel.app/api/top-langs?username=shiftyLogm&hide=html,shaderlab,mathematica,hlsl,cmake,c&theme=dark&layout=compact&cache_seconds=21603" style="height: 164px">
-</div>
-<br>
-<hr>
-<div align=center>
-  <em><strong>"I May Be But Small, But I Will Die A Colossus."</strong></em>
 </div>
